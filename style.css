@@ -13,8 +13,7 @@
     }
     
     .cabeçalho_imagem{
-    width: 200
-    %;
+    width: 100px; %;
     }
     
     .cabeçalho_titulo{
@@ -27,7 +26,7 @@
     }
     
     .apresentaçao_trabalho{
-    background-image: linear-gradient(rgb(12, 243, 43), #09e426);
+    background-image: linear-gradient(rgb(12, 243, 43), #00ff22);
     display: flex;
     justify-content: space-around;
     align-items: center;
