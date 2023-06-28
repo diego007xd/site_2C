@@ -27,8 +27,6 @@
     
     .apresentaçao_trabalho{
     background-image: linear-gradient(rgb(211, 49, 8), #000000);
-    display: flex;
-    justify-content: space-around;
     align-items: center;
     padding: 100px 0;
     }
